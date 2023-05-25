@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nathanReitinger
 - 👀 I’m interested in privacy and security, with emphasis on the privacy
-- 🌱 I’m currently thinking about more usable off-the-record communication protocol features!  
+- 🌱 I’m currently thinking about ~~more usable off-the-record communication protocol features~~ breach notifications and measuring regulatory compliance!
 - 📫 How to reach me nathan.reitinger@gmail.com or https://nathanreitinger.umiacs.io
